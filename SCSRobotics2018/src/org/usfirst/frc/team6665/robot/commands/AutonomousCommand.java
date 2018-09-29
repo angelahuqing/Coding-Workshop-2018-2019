@@ -55,7 +55,7 @@ public class AutonomousCommand extends Command {
     @Override
     protected void execute() {
     	
-    	// You will need this command: timer.get()<=4
+    	// You will need this command: timer.get()
 	// And this Command: Robot.driveTrain.differentialDrive1.arcadeDrive(double xSpeed, double z Rotation);
         	
 
